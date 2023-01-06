@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sQRwJ3XqIWVO9Br6uqEabVotipAzHctkFppeiXGq9lPdrllJS+jJmw/e211VjLFsX5UUQiHblJSm5edk71+mFA==",
+  "dgSpecHash": "3DrrGs2HAxMOt8tfaWIZKpIoxxbYghZLtyCrEp82LeTLMCk+TGmSd48RmvUrP0zeHz4ghbcgGqlO7s/w2stPvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Documents\\C# Anotações\\Temp\\Projetos\\BotWhatsappClube\\BotWhatsappClube\\BotWhatsappClube.csproj",
+  "projectFilePath": "C:\\Users\\jorda\\Downloads\\C# trabaio\\BotWhatsappBeta\\BotWhatsappClube\\BotWhatsappClube.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\selenium.support\\4.7.0\\selenium.support.4.7.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512"
+    "C:\\Users\\jorda\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jorda\\.nuget\\packages\\selenium.support\\4.7.0\\selenium.support.4.7.0.nupkg.sha512",
+    "C:\\Users\\jorda\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
+    "C:\\Users\\jorda\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512"
   ],
   "logs": []
 }
